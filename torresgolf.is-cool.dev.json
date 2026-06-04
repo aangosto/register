@@ -1,0 +1,17 @@
+{
+    "description": "Plataforma de reservas de la comunidad Las Torres Golf Nueva Condomina",
+    "domain": "is-cool.dev",
+    "subdomain": "torresgolf",
+
+    "owner": {
+        "repo": "https://github.com/aangosto/torresgolf",
+        "email": "aangostos@gmail.com"
+    },
+
+    "record": {
+        "CNAME": "p01--torresgolf--nk26ykv8jsdc.code.run",
+        "TXT": ["9f02ceb2bae30eee59c5b6f870aadf279ef0c96fdb2a4a6a5d264031d461916"]
+    },
+
+    "proxied": false
+}
